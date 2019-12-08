@@ -241,7 +241,7 @@ def flip_player():
   if player == "X":
     player = "O"
 
-    # If the current player was O, then change it to X
+  # If the current player was O, then change it to X
   elif player == "O":
     player = "X"
 
